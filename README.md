@@ -29,3 +29,8 @@ We will also hold events and festivals to using "NFT Trading Cards" and form com
 
 Our efforts are to reduce food loss waste incineration and to reduce CO2 emissions by using fermentation in the processing of MISO.
 For this reason, we have decided to use Celo's network
+
+
+License
+----
+* [celo-composer](https://github.com/celo-org/celo-composer)

@@ -1,5 +1,5 @@
 {
-    "name": "@digital-miso-app/react-app",
+    "name": "@MISO-NFT-trading-cards/react-app",
     "version": "0.1.0",
     "private": true,
     "scripts": {
@@ -14,9 +14,12 @@
         "@heroicons/react": "^2.0.16",
         "@rainbow-me/rainbowkit": "^0.12.2",
         "ethers": "^5.7.2",
+        "leaflet": "^1.9.3",
+        "maplibre-gl": "^2.4.0",
         "next": "13.2.4",
         "react": "18.2.0",
         "react-dom": "18.2.0",
+        "react-map-gl": "^7.0.23",
         "wagmi": "^0.12.2"
     },
     "devDependencies": {
