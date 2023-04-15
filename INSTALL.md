@@ -14,7 +14,7 @@ INSTALL Memo
 
 React.js with typescript
 ```
-$ npx create-react-app digital-miso-app --template typescript
+$ npx create-react-app MISO-NFT-trading-cards --template typescript
 ```
 
 ### ETHGlobal Tokyo
@@ -51,5 +51,5 @@ Celo Composer CLI
 ? Choose web3 library for react app: rainbowkit-celo
 ? Choose smart-contract framework: Hardhat
 ? Create a subgraph: No
-? Project name:  digital-miso-app
+? Project name:  MISO-NFT-trading-cards
 ```
