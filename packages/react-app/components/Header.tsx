@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export default function Header() {
     return (
-      <Disclosure as="nav" className="bg-prosperity border-b border-black">
+      <Disclosure as="nav" className="border-b border-black">
         {({ open }) => (
           <>
             <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
@@ -22,9 +22,6 @@ export default function Header() {
                   </Disclosure.Button>
                 </div>
                 <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
-                  <div className="flex flex-shrink-0 items-center">
-                    <Image className="block h-8 w-auto sm:block lg:block" src="/logo.svg" width="24" height="24" alt="Celo Logo" />
-                  </div>
                   <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
                     <a
                       href="#"
